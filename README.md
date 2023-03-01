@@ -1,4 +1,3 @@
-
 ### Olá!, eu sou Geovana Barbosa, e sou desenvolvedora Full-Stack júnior. 👋
 <wbr>
 
@@ -17,11 +16,7 @@
 <img align="center"alt="html5"src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> 
 <img align="center"alt="html5"src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center"alt="html5"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="center"alt="html5"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-" />
-<img align="center"alt="html5"src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
-" />
-</div><wbr>
+
 
 ### Sou apaixonada por técnologia, e jogos, ando em constante evolução.  
 
@@ -32,4 +27,3 @@
 #### 📧 https://www.linkedin.com/in/geovana-barbosa-90133a250/
 <br>
 Agradeço a visita ao meu perfil. 🙃
-
