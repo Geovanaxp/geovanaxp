@@ -1,28 +1,35 @@
-<h1 align="center">Olá 👋, sou Geovana Barbosa.</h1>
-<h3 align="center">Tenho 20 anos e sou Desenvolvedora de Software Júnior.</h3>
 
-< p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/ ?username=geovanaxp" alt="geovanaxp" /></a> </p>
+### Olá!, eu sou Geovana Barbosa, e sou desenvolvedora Full-Stack júnior. 👋
+<wbr>
 
-- 🌱 Atualmente estou aprendendo **Análise e desenvolvimento de sistemas.**
+## Aqui estão minhas redes socias:
 
-- 📑 Este é o meu perfil Linkedin [https://www .linkedin.com/in/geovana-barbosa-90133a250/](https://www.linkedin.com/in/geovana-barbosa-90133a250/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/anvilain)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/geauditore/)
 
-- 💬 Pergunte-me sobre **Python e Javascript.**
+![Geovana GitHub stats](https://github-readme-stats.vercel.app/api?username=Geovanaxp&show_icons=true&theme=synthwave)
 
-- 📫 Como me encontrando: **Geovanabarbosaxp@gmail.com**
+## Tecnologias que eu utilizo:
+<div style ="display: inline_block"><br/>
+<img align="center"alt="html5"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+<img align="center"alt="html5"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> 
+<img align="center"alt="html5"src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+<img align="center"alt="html5"src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> 
+<img align="center"alt="html5"src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center"alt="html5"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="center"alt="html5"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+" />
+<img align="center"alt="html5"src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+" />
+</div><wbr>
 
-- ⚡ Curiosidade **Meu jogo favorito é Assassin's Creed.**
+### Sou apaixonada por técnologia, e jogos, ando em constante evolução.  
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/geovana-barbosa-90133a250/" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com /in/geovana-barbosa-90133a250/" height="30" width="40" /></a>
-<a href="https://instagram.com/@geauditore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@geauditore" height= "30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs. org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40 "/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www. w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt ="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> < img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> < /a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com /devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft .com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg " alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> < /a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target=" _blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height ="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width= "40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> < /a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master /icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width=" 40" altura="40"/> </a> </p>target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width=" 40" altura="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geovanaxp&show_icons=true&locale=en&layout=compact" alt="geovanaxp" /> </p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=geovanaxp&show_icons=true&locale=en" alt="geovanaxp" /> </p>
+#### Aqui está meu e-mail, e meu LinkedIn caso queira entrar em contato:
+#### 📧 Geovanabarbosaxp@gmail.com
+#### 📧 https://www.linkedin.com/in/geovana-barbosa-90133a250/
+<br>
+Agradeço a visita ao meu perfil. 🙃
 
